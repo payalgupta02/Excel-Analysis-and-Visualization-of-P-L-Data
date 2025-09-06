@@ -6,7 +6,7 @@ The objective was to clean and structure raw income statement data, perform fina
 <img width="1600" height="583" alt="image" src="https://github.com/user-attachments/assets/f5a4e3d9-1b93-4d41-96dd-a24bd3d817f0" />
 
 ### ***Dataset Source***
-- 365 Data Science
+-365 Data Science
 
 ### ***Worksheet Structure***
 - **IS source**: Raw data (uncleaned income statement)  
