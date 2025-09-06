@@ -42,5 +42,5 @@ Tools Used: Microsoft Excel (Data Cleaning, P&L Structuring, Visualization, Dash
 How to Use:<br>
 -
 -Download the Excel file: Analysis and Visualization of P&L Data.xlsx<br>
--Open the P&L Analysis sheet for cleaned data and calculations
--View FinancialYearReport for dashboard & interpretations
+-Open the P&L Analysis sheet for cleaned data and calculations<br>
+-View FinancialYearReport for dashboard & interpretations<br>
